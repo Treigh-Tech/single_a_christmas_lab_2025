@@ -1,4 +1,4 @@
-python:  print('hello class')
+print('hello class')
 
 def say_hello(): 
     return 'hello'
